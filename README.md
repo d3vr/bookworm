@@ -1,6 +1,8 @@
 Bookworm | Simple mini-site for books
 ========
 
-A mini-site displaying basic information about some book.
+**Bookworm** is an open-source, easy to use mini-site to display basic information about a book.
 
-This project is for the One-Week Challenge by Mozilla Algeria
+*TODO: Add more details as the project gets more complete.*
+
+**Note:** *This project is for the One-Week Challenge by Mozilla Algeria*
