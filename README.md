@@ -1,4 +1,4 @@
-one-week
+Bookworm | Simple mini-site for books
 ========
 
 A mini-site displaying basic information about some book.
