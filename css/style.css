@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0; }
+
+body {
+  overflow: hidden; }
+
+section {
+  width: 100%;
+  float: left;
+  height: 2000px;
+  padding: 10px; }
+  section.black {
+    background: #000;
+    color: #fff; }
+  section.white {
+    background: #fff;
+    color: #000; }
+  section#sec1 {
+    background: url(../images/quote.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; }
