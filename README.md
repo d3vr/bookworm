@@ -11,10 +11,10 @@ Enfin, à partir de notre site vous aurez accès à tous les liens qui vous perm
 
 **Contributeurs**
 
-Ahlem KHADIR
-Aïda ZIOUR
-Fayçal MITIDJI
-Mounir BENDALI-BRAHAM
+* Ahlem KHADIR
+* Aïda ZIOUR
+* Fayçal MITIDJI
+* Mounir BENDALI-BRAHAM
 
 *TODO: Add more details as the project gets more complete.*
 
