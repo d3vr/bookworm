@@ -9,7 +9,7 @@ Vous trouverez sur une partie du site un résumé de ce roman, rédigé par les 
 
 Enfin, à partir de notre site vous aurez accès à tous les liens qui vous permettront d'acheter ce roman à partir d'Amazon ou approfondir vos connaissances de cet oeuvre en lisant les avis sur ce livre dans Goodreads.
 
-**Contributeurs**
+**Contributeurs :**
 
 * Ahlem KHADIR
 * Aïda ZIOUR
