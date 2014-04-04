@@ -4,22 +4,69 @@
   outline: 0; }
 
 body {
-  overflow: hidden; }
+  overflow: hidden;
+  font-family: "Ubuntu", Arial, sans-serif; }
+
+.clear {
+  clear: both; }
+
+#hint {
+  position: absolute;
+  z-index: 2;
+  bottom: 20px;
+  left: 50%;
+  border-radius: 140px;
+  background: rgba(0, 0, 0, 0.8);
+  padding: 10px;
+  color: #fff;
+  margin-left: -212.5px;
+  display: none; }
+
+nav {
+  position: fixed;
+  z-index: 2;
+  background: #000;
+  width: 100%;
+  box-shadow: 0 0px 5px rgba(255, 255, 255, 0.1); }
+  nav ul {
+    list-style: none; }
+    nav ul li {
+      float: left; }
+      nav ul li a {
+        padding: 14px 20px;
+        text-decoration: none;
+        display: inline-block;
+        color: #fff;
+        -webkit-transition: background 0.2s;
+        -moz-transition: background 0.2s;
+        -ms-transition: background 0.2s;
+        -o-transition: background 0.2s;
+        transition: background 0.2s; }
+        nav ul li a.active {
+          background: rgba(255, 255, 255, 0.75) !important;
+          color: #000 !important; }
+        nav ul li a:hover {
+          background: rgba(255, 255, 255, 0.2); }
 
 section {
   width: 100%;
   float: left;
   height: 2000px;
-  padding: 10px; }
+  padding: 60px 10px 10px;
+  position: relative; }
   section.black {
     background: #000;
     color: #fff; }
   section.white {
     background: #fff;
     color: #000; }
-  section#sec1 {
+  section#quote {
     background: url(../images/quote.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover; }
+  section .anchor {
+    position: absolute;
+    top: 0;
+    left: 0; }
