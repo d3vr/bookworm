@@ -1,7 +1,7 @@
-Bookworm | Mini-site qui présente le roman de George Orwell, 1984.
+Bookworm
 ========
 
-**Bookworm** is an open-source, easy to use mini-site to display basic information about a book.
+**Bookworm** est un mini-site open-source facile d'usage pour afficher des informations basique a propos d'un livre.
 
 Vous pouvez voir un demo du site [ici](http://fm94.github.com/bookworm)
 
