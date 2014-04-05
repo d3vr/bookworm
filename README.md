@@ -9,7 +9,7 @@ Le mini-site Bookworm est spécialement dédié à l'oeuvre la plus connue de l'
 
 Vous trouverez sur une partie du site un résumé de ce roman, rédigé par les créateurs du site. Dans une partie, qu'on a nommée Auteur, vous pourrez avoir une idée sur la vie de l'auteur.
 
-Enfin, à partir de notre site vous aurez accès à tous les liens vers Amazon qui vous permettront d'acheter ce roman ou approfondir vos connaissances de cet oeuvre en lisant les avis sur ce livre dans Goodreads.
+Notre site met à votre disposition plusieurs liens utiles: Un vers Amazon qui vous permettra d'acheter ce roman, et un autre vers Goodreads pour avoir une idée sur ce qu'en pensent les lecteurs.
 
 **Contributeurs :**
 
