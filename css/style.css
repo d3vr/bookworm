@@ -74,9 +74,15 @@ section {
       margin-left: 190px;
       margin-right: 100px;
       margin-top: 100px;
+      position: relative;
       float: left; }
       section#resume #cover .coverDesign {
         background: url(../images/cover.jpg); }
+      section#resume #cover .ext_links {
+        bottom: -120px;
+        left: 50%;
+        margin-left: -50px;
+        width: 100px; }
     section#resume #book_resume {
       float: left;
       color: #35231F;
@@ -111,7 +117,37 @@ section {
         text-align: justify;
         line-height: 30px;
         margin-top: 10px; }
+    section#author .ext_links {
+      top: 610px;
+      left: 280px; }
   section .anchor {
     position: absolute;
     top: 0;
     left: 0; }
+  section .ext_links {
+    position: absolute; }
+    section .ext_links ul {
+      list-style: none; }
+      section .ext_links ul li {
+        display: inline-block;
+        float: left;
+        margin-right: 20px; }
+        section .ext_links ul li:last-child {
+          margin-right: 0; }
+        section .ext_links ul li a {
+          display: inline-block;
+          width: 40px;
+          height: 40px;
+          opacity: 0.6;
+          -webkit-transition: opacity 0.2s;
+          -moz-transition: opacity 0.2s;
+          -ms-transition: opacity 0.2s;
+          -o-transition: opacity 0.2s;
+          transition: opacity 0.2s; }
+          section .ext_links ul li a.gr {
+            background: url(../images/goodreads.png); }
+          section .ext_links ul li a.az {
+            background: url(../images/amazon.png);
+            height: 39px; }
+          section .ext_links ul li a:hover {
+            opacity: 1; }
