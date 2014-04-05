@@ -58,7 +58,7 @@ nav {
 section {
 	width: 100%;
 	float: left;
-	height: 2000px;
+	height: 1500px;
 	padding: 60px 10px 10px;
 	position: relative;
 
@@ -103,6 +103,35 @@ section {
 				margin-top: 10px;
 			}
 
+		}
+	}
+	&#author {
+		padding-top: 100px;
+		#pic {
+			padding: 10px 10px 30px 10px;
+			background: #fff;
+			margin-top: 30px;
+			margin-right: 90px;
+			margin-left: 150px;
+			box-shadow: 0 0 6px rgba(0,0,0,0.4);
+			border: 1px solid #ccc;
+			float: left;
+			img {
+				float: left;
+			}
+		}
+		#bio {
+			float: left;
+			width: 52%;
+			h1 {
+				font-size: 44px;
+				margin-bottom: 20px;
+			}
+			p {
+				text-align: justify;
+				line-height: 30px;
+				margin-top: 10px;
+			}
 		}
 	}
 	.anchor {
