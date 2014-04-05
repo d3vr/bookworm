@@ -3,7 +3,7 @@ Bookworm | Mini-site qui présente le roman de George Orwell, 1984.
 
 **Bookworm** is an open-source, easy to use mini-site to display basic information about a book.
 
-You can see a demo of the site [here](http://fm94.github.com/bookworm)
+Vous pouvez voir un demo du site [ici](http://fm94.github.com/bookworm)
 
 Le mini-site Bookworm est spécialement dédié à l'oeuvre la plus connue de l'écrivain George Orwell, le roman 1984. 
 
@@ -23,4 +23,4 @@ Ce site est créé sur une seule page et elle est divisée en trois parties:
 - Résumé
 - Auteur
 
-**Note:** *This project is for the One-Week Challenge by Mozilla Algeria*
+**Note:** *Ce projet est pour le One-Week Challenge par Mozilla Algeria*
