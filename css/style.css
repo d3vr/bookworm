@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
+@import url(book.css);
 * {
   margin: 0;
   padding: 0;
@@ -66,6 +68,26 @@ section {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover; }
+  section#resume {
+    padding-top: 110px; }
+    section#resume #cover {
+      margin-left: 190px;
+      margin-right: 100px;
+      margin-top: 100px;
+      float: left; }
+      section#resume #cover .coverDesign {
+        background: url(../images/cover.jpg); }
+    section#resume #book_resume {
+      float: left;
+      color: #35231F;
+      width: 52%; }
+      section#resume #book_resume h1 {
+        color: #C80C1D;
+        font-size: 44px; }
+      section#resume #book_resume p {
+        text-align: justify;
+        line-height: 30px;
+        margin-top: 10px; }
   section .anchor {
     position: absolute;
     top: 0;
