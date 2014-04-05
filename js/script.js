@@ -42,6 +42,7 @@ $(function(){
 		}, 1500, "easeInOutExpo", function(){
 			canMove = true;
 		});
+		currSec = $(this).parent().index();
 		$("nav a").removeClass("active");
 		$(this).addClass("active");
 		e.preventDefault();
