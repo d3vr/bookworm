@@ -23,4 +23,8 @@ Ce site est créé sur une seule page et elle est divisée en trois parties:
 - Résumé
 - Auteur
 
+Ce site utilise des ressources externes: 
+- [Extrait du livre (à partir de Google books)](http://ww2.ac-poitiers.fr/histoire-arts/IMG/pdf/extrait_1984_Orwell.pdf)
+- [Animated 3D book](http://tympanus.net/Development/AnimatedBooks/index.html)
+
 **Note:** *Ce projet est pour le One-Week Challenge par Mozilla Algeria*
