@@ -18,8 +18,6 @@ Notre site met à votre disposition plusieurs liens utiles: Un vers Amazon qui v
 * Fayçal MITIDJI
 * Mounir BENDALI-BRAHAM
 
-*TODO: Add more details as the project gets more complete.*
-
 Ce site est créé sur une seule page et elle est divisée en trois parties:
 - Accueil
 - Résumé
