@@ -30,8 +30,24 @@ nav {
   background: #000;
   width: 100%;
   box-shadow: 0 0px 5px rgba(255, 255, 255, 0.1); }
+  nav #fork {
+    float: right;
+    display: inline-block;
+    height: 47px;
+    padding: 0 10px 0 54px;
+    line-height: 47px;
+    color: #fff;
+    background: rgba(255, 255, 255, 0.3) url(../images/github.png) no-repeat 10px center;
+    -webkit-transition: background 0.2s;
+    -moz-transition: background 0.2s;
+    -ms-transition: background 0.2s;
+    -o-transition: background 0.2s;
+    transition: background 0.2s; }
+    nav #fork:hover {
+      background: rgba(255, 255, 255, 0.4) url(../images/github.png) no-repeat 10px center; }
   nav ul {
-    list-style: none; }
+    list-style: none;
+    float: left; }
     nav ul li {
       float: left; }
       nav ul li a {
